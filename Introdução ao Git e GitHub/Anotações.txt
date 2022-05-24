@@ -1,2 +1,10 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Nash é um console/terminal extendido para otimizar o uso do Git.
+
+mkdir - Criar um repositório
+git status - vai falar que status está cada diretório e arquivo
+ls - listar todas as pastas que tem na pasta local 
+git add . - Irá adicionar todos os arquivos dentro da pasta que estiver para poder comitar
+git add * - Irá adicionar todos os arquivos dentro da pasta que estiver para poder comitar
+git commit -m "Descrição do que está sendo feito" - Esse é o comando para comitar de descrever o que foi feito
+git push origin main - Este é o comendo mandar para o repositório em nuvem GitHub todos os documentos que temos em local.
