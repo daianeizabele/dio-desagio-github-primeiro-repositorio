@@ -1,6 +1,8 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Nash é um console/terminal extendido para otimizar o uso do Git.
 
+cd .. - voltar uma pasta
+ignit - começar um repositório (pastinha .git)
 mkdir - Criar um repositório
 git status - vai falar que status está cada diretório e arquivo
 ls - listar todas as pastas que tem na pasta local 
